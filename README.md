@@ -1,4 +1,4 @@
-# Home Credit Default Risk
+### Home Credit Default Risk
 During my internship at datamites, I worked on that project for which I have received grade B+
 
 Can you predict how capable each applicant is of repaying a loan?
