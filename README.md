@@ -1,6 +1,6 @@
 ### Home Credit Default Risk
 ### Can you predict how capable each applicant is of repaying a loan?
-#### During my internship at datamites, I worked on that project for which I have received grade B+
+#### During my internship at datamites, I worked on that project for which I have received grade 
 
 ### Problem statement
 
@@ -11,7 +11,7 @@ While Home Credit is currently using various statistical and machine learning me
 
 ### Data Description
 
-•	application_{train|test}.csv
+•application_{train|test}.csv
 
 This is the main table, broken into two files for Train (with TARGET) and Test (without TARGET). 
 
@@ -21,7 +21,7 @@ Static data for all applications. One row represents one loan in our data sample
 
 All client's previous credits provided by other financial institutions that were reported to Credit Bureau (for clients who have a loan in our sample). 
 
-	For every loan in our sample, there are as many rows as number of credits the client had in Credit Bureau before the application date.
+For every loan in our sample, there are as many rows as number of credits the client had in Credit Bureau before the application date.
 
 •	bureau_balance.csv
 
