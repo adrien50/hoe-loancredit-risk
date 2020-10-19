@@ -1,4 +1,4 @@
-# Data science Internship project : Home Credit Default Risk project. Can you predict how capable each applicant is of repaying a loan?
+# Data science capstone project : Home Credit Default Risk project. Can you predict how capable each applicant is of repaying a loan?
 
 ## During my internship at datamites, I have worked on that project for which I have received grade 
 
