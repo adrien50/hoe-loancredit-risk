@@ -19,9 +19,9 @@ While Home Credit is currently using various statistical and machine learning me
 
 ### •	bureau.csv
 
-* All client's previous credits provided by other financial institutions that were reported to Credit Bureau (for clients who have a loan in our sample). 
+         * All client's previous credits provided by other financial institutions that were reported to Credit Bureau (for clients who have a loan in our sample). 
 
-* For every loan in our sample, there are as many rows as number of credits the client had in Credit Bureau before the application date.
+         * For every loan in our sample, there are as many rows as number of credits the client had in Credit Bureau before the application date.
 
 ### •	bureau_balance.csv
 
